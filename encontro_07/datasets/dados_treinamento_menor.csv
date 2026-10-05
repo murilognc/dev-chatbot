@@ -1,0 +1,31 @@
+texto,intencao
+olá,saudacao
+oi,saudacao
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+quero falar com o atendimento,saudacao
+quanto custa o notebook,preco
+qual o preço do notebook,preco
+quero saber o valor do celular,preco
+qual é o preço do celular,preco
+quanto vou pagar pelo tablet,preco
+me informe o valor do produto,preco
+tem notebook em estoque,estoque
+o celular está disponível,estoque
+vocês têm tablet disponível,estoque
+tem esse produto em estoque,estoque
+quero saber se tem notebook,estoque
+quero consultar meu pedido,pedido
+qual o status do meu pedido,pedido
+onde está meu pedido,pedido
+quero acompanhar minha compra,pedido
+como está o meu pedido,pedido
+quero consultar meus dados,cliente
+quais são meus dados,cliente
+consulte meu cadastro,cliente
+quero ver meu cadastro,cliente
+o que você consegue fazer,ajuda
+quais são suas funções,ajuda
+como você pode me ajudar,ajuda
+preciso de ajuda,ajuda
