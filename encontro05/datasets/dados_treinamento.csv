@@ -1,0 +1,29 @@
+texto,intencao
+oi,saudacao
+olá,saudacao
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+oi tudo bem,saudacao
+olá gostaria de ajuda,saudacao
+qual o preço do notebook,preco
+quanto custa o celular,preco
+qual o valor desse produto,preco
+quero saber o preço do computador,preco
+me informe o valor do smartphone,preco
+quanto vou pagar pelo notebook,preco
+esse produto custa quanto,preco
+tem notebook em estoque,estoque
+o celular está disponível,estoque
+vocês têm esse produto,estoque
+tem o smartphone disponível,estoque
+quero saber se o computador está em estoque,estoque
+esse produto ainda está disponível,estoque
+posso comprar esse produto agora,estoque
+onde está meu pedido,pedido
+quero acompanhar meu pedido,pedido
+qual o status da minha entrega,pedido
+meu pedido já foi enviado,pedido
+quando meu pedido vai chegar,pedido
+quero rastrear minha compra,pedido
+como acompanho a entrega,pedido
