@@ -1,0 +1,121 @@
+texto,intencao
+olá,saudacao
+oi,saudacao
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+quero falar com o atendimento,saudacao
+"olá, tudo bem?",saudacao
+"oi, tudo bem?",saudacao
+"olá, preciso de ajuda",saudacao
+"oi, gostaria de uma informação",saudacao
+"bom dia, gostaria de falar com alguém",saudacao
+"boa tarde, podem me ajudar?",saudacao
+"boa noite, preciso de atendimento",saudacao
+"olá, posso tirar uma dúvida?",saudacao
+"oi, tenho uma dúvida",saudacao
+"olá, gostaria de atendimento",saudacao
+"oi, preciso falar com o suporte",saudacao
+"bom dia, preciso de ajuda",saudacao
+"boa tarde, preciso de uma informação",saudacao
+"olá, alguém pode me atender?",saudacao
+quanto custa o notebook,preco
+qual o preço do notebook,preco
+quero saber o valor do celular,preco
+qual é o preço do celular,preco
+quanto vou pagar pelo tablet,preco
+me informe o valor do produto,preco
+qual o valor do notebook?,preco
+quanto está custando o notebook?,preco
+quanto custa um celular?,preco
+quanto está o celular?,preco
+qual o valor do celular?,preco
+pode me informar o preço do tablet?,preco
+gostaria de saber o preço do tablet,preco
+quero saber quanto custa o notebook,preco
+você pode informar o preço do notebook?,preco
+qual é o valor desse produto?,preco
+quanto custa esse produto?,preco
+qual o preço desse item?,preco
+me diga quanto custa o celular,preco
+pode informar quanto vou pagar pelo notebook?,preco
+tem notebook em estoque,estoque
+o celular está disponível,estoque
+vocês têm tablet disponível,estoque
+tem esse produto em estoque,estoque
+quero saber se tem notebook,estoque
+o notebook está disponível?,estoque
+vocês têm notebook disponível?,estoque
+ainda tem notebook em estoque?,estoque
+tem celular disponível para compra?,estoque
+o celular está em estoque?,estoque
+vocês ainda têm celular?,estoque
+tem tablet disponível?,estoque
+o tablet está disponível?,estoque
+gostaria de saber se o tablet está em estoque,estoque
+quero verificar a disponibilidade do notebook,estoque
+pode verificar se tem celular?,estoque
+há unidades do notebook disponíveis?,estoque
+quantos notebooks vocês têm em estoque?,estoque
+tem alguma unidade do celular disponível?,estoque
+quero saber se esse produto está disponível,estoque
+quero consultar meus pedidos,pedido
+quero ver meus pedidos,pedido
+quero acompanhar meus pedidos,pedido
+quero verificar meus pedidos,pedido
+quero consultar meu pedido,pedido
+quero ver meu pedido,pedido
+qual o status do meu pedido,pedido
+qual o status da minha compra,pedido
+onde está meu pedido,pedido
+onde está minha compra,pedido
+quero rastrear meu pedido,pedido
+quero rastrear minha compra,pedido
+me mostre meus pedidos,pedido
+quais pedidos eu tenho,pedido
+quais compras eu fiz,pedido
+quero saber minhas compras,pedido
+preciso acompanhar uma compra,pedido
+quero verificar uma compra,pedido
+consulte meus pedidos,pedido
+verifique o status da minha compra,pedido
+quero consultar meus dados cadastrais,cliente
+quero consultar meu cadastro,cliente
+quais são meus dados cadastrais,cliente
+quero verificar meus dados cadastrais,cliente
+quero acessar meu cadastro,cliente
+quero visualizar meu cadastro,cliente
+me mostre meus dados cadastrais,cliente
+quais informações estão no meu cadastro,cliente
+quero conferir meus dados,cliente
+preciso verificar meu cadastro,cliente
+quero consultar minhas informações pessoais,cliente
+quero ver minhas informações cadastrais,cliente
+quais dados estão cadastrados,cliente
+consulte minhas informações cadastrais,cliente
+quero saber meus dados cadastrados,cliente
+preciso acessar meus dados pessoais,cliente
+quero verificar minha conta,cliente
+consulte minha conta,cliente
+quero visualizar minha conta,cliente
+me mostre as informações da minha conta,cliente
+o que você consegue fazer,ajuda
+quais são suas funções,ajuda
+como você pode me ajudar,ajuda
+preciso de ajuda,ajuda
+o que você pode fazer?,ajuda
+quais serviços você oferece?,ajuda
+quais opções estão disponíveis?,ajuda
+como você pode me ajudar hoje?,ajuda
+quais informações você consegue consultar?,ajuda
+que tipo de atendimento você oferece?,ajuda
+quais assuntos você consegue resolver?,ajuda
+pode me explicar o que você faz?,ajuda
+quais são as suas funcionalidades?,ajuda
+como funciona esse atendimento?,ajuda
+o que posso consultar aqui?,ajuda
+quais consultas você pode fazer?,ajuda
+preciso saber quais opções tenho,ajuda
+você pode me ajudar com meu pedido?,ajuda
+você consegue consultar produtos?,ajuda
+como posso utilizar o chatbot?,ajuda
